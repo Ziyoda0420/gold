@@ -1,0 +1,55 @@
+.body{
+    background-color: blue;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:white
+}
+.green{
+    color: green;
+}
+.blue{
+    background-color: darkblue;
+    border-radius: 15px;
+}
+.pic{
+    text-align: center;
+}
+.div{
+    
+    border: 1px solid yellow;
+    color: white;
+  
+}
+.dil{
+    border: 1px solid yellow;
+    text-align: center;
+    color: white;
+}
+
+table{
+    border: 1px solid #000;
+    
+}
+.p{
+    text-align: center;
+}
+.input{
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+.text{
+    width: 100%;
+}
+.zz{
+    background-color: yellow;
+    border-radius: 15px;
+    text-align: center;
+    margin: center;
+}
+
